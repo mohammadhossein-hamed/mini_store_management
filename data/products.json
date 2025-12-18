@@ -1,0 +1,32 @@
+[
+    {
+        "name": "laptop",
+        "price": 3069.0,
+        "stock": 8
+    },
+    {
+        "name": "mouse",
+        "price": 39.0,
+        "stock": 12
+    },
+    {
+        "name": "speaker",
+        "price": 99.99,
+        "stock": 15
+    },
+    {
+        "name": "monitor",
+        "price": 1277.29,
+        "stock": 20
+    },
+    {
+        "name": "headphone",
+        "price": 39.49,
+        "stock": 19
+    },
+    {
+        "name": "watch",
+        "price": 90.0,
+        "stock": 49
+    }
+]

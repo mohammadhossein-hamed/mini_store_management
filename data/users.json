@@ -1,0 +1,136 @@
+[
+    {
+        "username": "admin",
+        "password": "admin",
+        "purchase_history": []
+    },
+    {
+        "username": "ali",
+        "password": "5555",
+        "purchase_history": [
+            {
+                "cart_id": "uAkg1_cQleJb",
+                "items": [
+                    {
+                        "product": {
+                            "name": "galaxy s25fe",
+                            "price": 500.89,
+                            "stock": 10
+                        },
+                        "quantity": 2,
+                        "total_price": 1001.78
+                    },
+                    {
+                        "product": {
+                            "name": "mouse",
+                            "price": 39.49,
+                            "stock": 26
+                        },
+                        "quantity": 1,
+                        "total_price": 39.49
+                    }
+                ],
+                "total_price": 1041.27
+            },
+            {
+                "cart_id": "_S_NOM-kMjOu",
+                "items": [
+                    {
+                        "product": {
+                            "name": "galax a56",
+                            "price": 450.0,
+                            "stock": 14
+                        },
+                        "quantity": 2,
+                        "total_price": 900.0
+                    }
+                ],
+                "total_price": 900.0
+            }
+        ]
+    },
+    {
+        "username": "test",
+        "password": "test",
+        "purchase_history": [
+            {
+                "cart_id": "kjxdzFhjbVCw",
+                "items": [
+                    {
+                        "product": {
+                            "name": "laptop",
+                            "price": 3069.0,
+                            "stock": 15
+                        },
+                        "quantity": 1,
+                        "total_price": 3069.0
+                    },
+                    {
+                        "product": {
+                            "name": "speaker",
+                            "price": 99.99,
+                            "stock": 18
+                        },
+                        "quantity": 1,
+                        "total_price": 99.99
+                    }
+                ],
+                "total_price": 3168.99
+            }
+        ]
+    },
+    {
+        "username": "amir",
+        "password": "1111",
+        "purchase_history": [
+            {
+                "cart_id": "qnFWMYKFnYiB",
+                "items": [
+                    {
+                        "product": {
+                            "name": "laptop",
+                            "price": 3069.0,
+                            "stock": 9
+                        },
+                        "quantity": 1,
+                        "total_price": 3069.0
+                    },
+                    {
+                        "product": {
+                            "name": "mouse",
+                            "price": 39.0,
+                            "stock": 13
+                        },
+                        "quantity": 1,
+                        "total_price": 39.0
+                    },
+                    {
+                        "product": {
+                            "name": "speaker",
+                            "price": 99.99,
+                            "stock": 16
+                        },
+                        "quantity": 1,
+                        "total_price": 99.99
+                    }
+                ],
+                "total_price": 3207.99
+            },
+            {
+                "cart_id": "gN4xzpE6aU2P",
+                "items": [
+                    {
+                        "product": {
+                            "name": "headphone",
+                            "price": 39.49,
+                            "stock": 20
+                        },
+                        "quantity": 1,
+                        "total_price": 39.49
+                    }
+                ],
+                "total_price": 39.49
+            }
+        ]
+    }
+]
