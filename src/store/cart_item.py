@@ -1,4 +1,4 @@
-from store.product import Product
+from .product import Product
 
 
 class CartItem:

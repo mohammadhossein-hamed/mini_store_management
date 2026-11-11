@@ -1,5 +1,5 @@
 # import json
-from store.cart import Cart
+from .cart import Cart
 
 
 class User:

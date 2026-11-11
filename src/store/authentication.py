@@ -1,6 +1,6 @@
 import getpass
-from store.database import get_users, save_users
-from store.user import User
+from .database import get_users, save_users
+from .user import User
 
 
 def get_input():

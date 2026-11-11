@@ -1,4 +1,4 @@
-from store.store import Store
+from src import Store
 
 store = Store()
 

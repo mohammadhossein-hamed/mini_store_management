@@ -1,10 +1,10 @@
 import os
-from store.database import get_users, get_products, save_products, save_users
-from store.user import User
-from store.authentication import login, signup
-from store.product import Product
-from store.cart import Cart
-import store.display as display
+from . import display
+from .authentication import login, signup
+from .cart import Cart
+from .database import get_products, get_users, save_products, save_users
+from .product import Product
+from .user import User
 
 
 class Store:

@@ -29,7 +29,7 @@ cp data/users.example.json data/users.json
 Run the application from the project root:
 
 ```bash
-python src/app.py
+python app.py
 ```
 
 Create an account through the app to get started. The sample user file is

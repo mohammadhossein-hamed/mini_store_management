@@ -1,8 +1,8 @@
 import secrets
 import base64
 
-from store.cart_item import CartItem
-from store.product import Product
+from .cart_item import CartItem
+from .product import Product
 
 
 class Cart:
