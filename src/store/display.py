@@ -230,7 +230,7 @@ def admin_panel():
             f"""=================================
             \r         💼  Admin Panel
             \r=================================\n
-            \r1. Adding new produc
+            \r1. Adding new product
             \r2. Deleting product
             \r3. Updating product stock and prices
             \r4. Exit

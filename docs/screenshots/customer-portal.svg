@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="480" viewBox="0 0 760 480" role="img" aria-labelledby="title description">
+  <title id="title">Mini Store customer portal</title>
+  <desc id="description">Terminal-style rendering of the customer portal and product list.</desc>
+  <rect width="760" height="480" rx="14" fill="#111827"/>
+  <path d="M14 0h732a14 14 0 0 1 14 14v34H0V14A14 14 0 0 1 14 0Z" fill="#1f2937"/>
+  <circle cx="24" cy="24" r="6" fill="#f87171"/>
+  <circle cx="46" cy="24" r="6" fill="#fbbf24"/>
+  <circle cx="68" cy="24" r="6" fill="#34d399"/>
+  <text x="380" y="29" text-anchor="middle" fill="#9ca3af" font-family="ui-monospace, monospace" font-size="13">Mini Store — Customer Portal</text>
+  <g fill="#e5e7eb" font-family="ui-monospace, monospace" font-size="16">
+    <text x="38" y="91">=================================</text>
+    <text x="38" y="119">      🛍️  CUSTOMER PORTAL</text>
+    <text x="38" y="147">=================================</text>
+    <text x="38" y="190">Available products:</text>
+    <text x="38" y="222">[1] Laptop - $3069.00 (Stock: 8)</text>
+    <text x="38" y="254">[2] Mouse - $39.00 (Stock: 12)</text>
+    <text x="38" y="302" fill="#6b7280">--------------------</text>
+    <text x="38" y="330">1. Add item to cart</text>
+    <text x="38" y="358">2. View cart</text>
+    <text x="38" y="386">3. Checkout</text>
+    <text x="38" y="414">4. Return to main menu</text>
+    <text x="38" y="456" fill="#93c5fd">Enter choice: _</text>
+  </g>
+</svg>

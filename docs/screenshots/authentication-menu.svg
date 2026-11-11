@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="390" viewBox="0 0 760 390" role="img" aria-labelledby="title description">
+  <title id="title">Mini Store login and signup menu</title>
+  <desc id="description">Terminal-style rendering of the login and signup choices.</desc>
+  <rect width="760" height="390" rx="14" fill="#111827"/>
+  <path d="M14 0h732a14 14 0 0 1 14 14v34H0V14A14 14 0 0 1 14 0Z" fill="#1f2937"/>
+  <circle cx="24" cy="24" r="6" fill="#f87171"/>
+  <circle cx="46" cy="24" r="6" fill="#fbbf24"/>
+  <circle cx="68" cy="24" r="6" fill="#34d399"/>
+  <text x="380" y="29" text-anchor="middle" fill="#9ca3af" font-family="ui-monospace, monospace" font-size="13">Mini Store — Authentication</text>
+  <g fill="#e5e7eb" font-family="ui-monospace, monospace" font-size="18">
+    <text x="38" y="91">=================================</text>
+    <text x="38" y="121">      🔐  Store User Login</text>
+    <text x="38" y="151">=================================</text>
+    <text x="38" y="205">1. Login</text>
+    <text x="38" y="237">2. Signup</text>
+    <text x="38" y="269">3. Return to Main menu</text>
+    <text x="38" y="327" fill="#93c5fd">Enter choice: _</text>
+  </g>
+</svg>

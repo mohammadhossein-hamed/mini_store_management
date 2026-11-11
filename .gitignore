@@ -3,6 +3,10 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Local application data
+/data/products.json
+/data/users.json
+
 # C extensions
 *.so
 
@@ -207,3 +211,5 @@ marimo/_lsp/
 __marimo__/
 
 *.ipynb
+data/products.json
+data/users.json
